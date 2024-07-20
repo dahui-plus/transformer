@@ -1,0 +1,9 @@
+/.vscode
+/**/__pycache__
+
+/dataset/*
+!/dataset/spa-eng
+!/dataset/ted_hrlr_translate_pt_en_converter
+!/dataset/download.sh
+/logs
+/checkpoints/*
